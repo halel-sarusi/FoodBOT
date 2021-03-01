@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\halel\Desktop\הלל\לימודים - הנדסת תוכנה\שנה ג סמסטר א\שיטות בהנדסת תוכנה\dbConnection\dbConnection\Source.cpp(634): warning C4244: '=': conversion from 'uint64_t' to 'int', possible loss of data
+  dbConnection.vcxproj -> C:\Users\halel\Desktop\הלל\לימודים - הנדסת תוכנה\שנה ג סמסטר א\שיטות בהנדסת תוכנה\dbConnection\x64\Debug\dbConnection.exe
