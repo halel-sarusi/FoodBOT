@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Users\Abdulkarim Ahmed\source\repos\dbConnection\dbConnection\Source.cpp(349,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Abdulkarim Ahmed\source\repos\dbConnection\dbConnection\Source.cpp(350,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  2 of 231 functions ( 0.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  dbConnection.vcxproj -> C:\Users\Abdulkarim Ahmed\source\repos\dbConnection\x64\Release\dbConnection.exe
